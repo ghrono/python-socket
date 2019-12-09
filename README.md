@@ -1,4 +1,4 @@
 # python-socket
 ```
-git clone
+git clone https://github.com/Bogdankozlovskiy/python-socket.git
 ```
